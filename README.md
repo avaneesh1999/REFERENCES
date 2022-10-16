@@ -1,3 +1,26 @@
+
+#Remote Jobs
+*https://www.showwcase.com/
+*remoteok. com
+*jsremotely. com
+*flexjobs. com
+*remote. co
+*justremote. co
+*weworkremotely. com
+*jobspresso. co
+*dailyremote. com
+*angel. co
+*remoteleaf. com
+*remoteleads. io
+*remotebear. io
+*justjoin. it
+*fullremote. it
+*flatworld. co
+
+
+
+
+
 # REFERENCES
 * importants tools and website
 * Pastebin code can be paste & share easily
