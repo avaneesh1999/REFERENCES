@@ -28,6 +28,7 @@
 * canva for social story and post designing
 * VERCEL(To deploy web pages through github) https://vercel.com/avaneesh1999
 * PRAMP(TO PRACTICE MOCK INTERVIEWS) https://www.pramp.com/dashboard#/
+* to  search for code snippets https://www.useblackbox.io/search
 
 
 # UNIX COMMANDS
